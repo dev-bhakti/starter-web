@@ -1,0 +1,5 @@
+One way databinding is a simple one way communication where HTML template is changed when we make changes in TypeScript code.
+
+Or
+
+In one-way databinding, the value of the Model is used in the View (HTML page) but you can't update Model from the View. Angular Interpolation / String Interpolation, Property Binding, and Event Binding are the example of one-way databinding.
